@@ -4,6 +4,11 @@
 <ul><li> Analysis of a bike-sharing system that let people use bikes for a short period of time for a
 cost or for free.</li></ul>
 
+# Business Objectives 
+<ul>
+  <li>  Modelling the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features.Then they can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.</li>
+</ul>
+
 # Tech Stack
 <ul>
   <li>Python</li>
@@ -30,6 +35,9 @@ regarding the demand for shared bikes.</li>
 <li>The model's performance was then assessed using both the testing data and the projected data. Our goal is to demonstrate how successfully the model has been trained to forecast
 client demand.</li>
 </ul>
+
+# Observation
+<ul><li>From R-Sqaured and adj R-Sqaured value of both train and test dataset we could conclude that the above variables can well explain almost 80% of bike demand.</li></ul>
 
 
 
